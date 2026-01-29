@@ -2,8 +2,7 @@
 
 Training and evaluation code for a sparse, stage-aware "Twin Attention" model
 that identifies cell identities from partial 3D embryo observations. This repo
-is cloned from `git@github.com:HenryX417/Cell_ID.git` and prepared as an
-accompanying repository for paper submission.
+is cloned from `git@github.com:HenryX417/Cell_ID.git` and prepared as an accompanying repository for paper submission.
 
 This folder includes:
 - `Model_Code.py`: training pipeline for Sparse Twin Attention v2.4.
